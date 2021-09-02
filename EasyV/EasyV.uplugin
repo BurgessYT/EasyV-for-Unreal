@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "1.1.0",
+	"FriendlyName": "EasyV For Unreal",
+	"Description": "EasyV Interface Visualization Design System for Unreal",
+	"Category": "EasyV",
+	"CreatedBy": "EasyV",
+	"CreatedByURL": "https://easyv.cloud",
+	"DocsURL": "https://easyv.cloud",
+	"MarketplaceURL": "",
+	"SupportURL": "https://burgess.ink",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BluLoader",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		},
+		{
+			"Name": "Blu",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	]
+}

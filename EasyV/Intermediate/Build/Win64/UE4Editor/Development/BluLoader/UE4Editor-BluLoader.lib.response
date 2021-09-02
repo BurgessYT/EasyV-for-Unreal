@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BluLoader.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\work\EasyV Plugin\EasyVTest426\Intermediate\Build\Win64\EasyVTest426Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\work\EasyV Plugin\EasyVTest426\Plugins\BLUI\Intermediate\Build\Win64\UE4Editor\Development\BluLoader\BluLoader.cpp.obj"
+"D:\work\EasyV Plugin\EasyVTest426\Plugins\BLUI\Intermediate\Build\Win64\UE4Editor\Development\BluLoader\Default.rc2.res"
+/OUT:"D:\work\EasyV Plugin\EasyVTest426\Plugins\BLUI\Intermediate\Build\Win64\UE4Editor\Development\BluLoader\UE4Editor-BluLoader.lib"
+/INCLUDE:IMPLEMENT_MODULE_BluLoader

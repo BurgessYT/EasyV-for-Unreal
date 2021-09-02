@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Blu.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\work\EasyV Plugin\EasyVTest426\Intermediate\Build\Win64\EasyVTest426Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\work\EasyV Plugin\EasyVTest426\Plugins\BLUI\Intermediate\Build\Win64\UE4Editor\Development\Blu\Module.Blu.cpp.obj"
+"D:\work\EasyV Plugin\EasyVTest426\Plugins\BLUI\Intermediate\Build\Win64\UE4Editor\Development\Blu\Module.Blu.gen.cpp.obj"
+"D:\work\EasyV Plugin\EasyVTest426\Plugins\BLUI\Intermediate\Build\Win64\UE4Editor\Development\Blu\Default.rc2.res"
+/OUT:"D:\work\EasyV Plugin\EasyVTest426\Plugins\BLUI\Intermediate\Build\Win64\UE4Editor\Development\Blu\UE4Editor-Blu.lib"
+/INCLUDE:IMPLEMENT_MODULE_Blu

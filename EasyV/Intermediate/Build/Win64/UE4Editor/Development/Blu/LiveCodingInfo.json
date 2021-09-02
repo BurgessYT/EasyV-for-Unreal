@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Blu.cpp.obj": [
+			"Blu.cpp.obj",
+			"BluBluprintFunctionLibrary.cpp.obj",
+			"BluEye.cpp.obj",
+			"BluJsonObj.cpp.obj",
+			"BluManager.cpp.obj",
+			"RenderHandler.cpp.obj"
+		],
+		"Module.Blu.gen.cpp.obj": [
+			"Blu.init.gen.cpp.obj",
+			"BluBlueprintFunctionLibrary.gen.cpp.obj",
+			"BluEye.gen.cpp.obj",
+			"BluJsonObj.gen.cpp.obj",
+			"BluTypes.gen.cpp.obj"
+		]
+	}
+}
