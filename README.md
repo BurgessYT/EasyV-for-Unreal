@@ -5,7 +5,7 @@ EasyV for Unreal 插件允许你将EasyV中的可视化设计部署到UE4/5中�
 当前支持版本：<br>
   4.26<br>
   4.27<br>
-  5.0 Early 1<br>
+  5.0 Preiview 2<br>
 CEF内核版本：[90.5.9](https://github.com/chromiumembedded/cef/tree/3987)<br>
 插件下载：https://github.com/BurgessYT/EasyV-for-Unreal/releases
 >
