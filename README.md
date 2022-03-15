@@ -1,7 +1,12 @@
 # EasyV for Unreal
 > 
-The EasyV for Unreal plugin allows you to deploy visual designs from EasyV to UE4, and to conduct two-way data communication, secondary development based on DBBrowser.  <br><br>
-EasyV for Unreal 插件允许你将EasyV中的可视化设计部署到UE4/5中，并进行数据双向通信。<br>
+The EasyV for Unreal plugin allows you to deploy visual designs from EasyV to Unreal, and to conduct two-way data communication, secondary development based on DBBrowser.  
+CEF core version: 90.5.9
+<br><br>
+EasyV for Unreal 插件允许你将EasyV中的可视化设计部署到UE4/5中，并进行数据双向通信，基于DBBrowser二次开发。
+插件最新版本：1.2.0
+CEF内核版本：90.5.9
+Abide by the MIT License<br>
 当前支持版本：<br>
   4.26<br>
   4.27<br>
