@@ -4,13 +4,13 @@ The EasyV for Unreal plugin allows you to deploy visual designs from EasyV to Un
 CEF core version: 90.5.9
 <br><br>
 EasyV for Unreal 插件允许你将EasyV中的可视化设计部署到UE4/5中，并进行数据双向通信。<br>
-插件最新版本：1.2.2<br>
+插件最新版本：1.2.3<br>
 CEF内核版本：90.5.9<br>
 Abide by the MIT License<br>
 当前支持版本：<br>
   4.26<br>
   4.27<br>
-  5.0 Preiview 2<br>
+  5.0<br>
 CEF内核版本：[90.5.9](https://github.com/chromiumembedded/cef/tree/3987)<br>
 插件下载：https://github.com/BurgessYT/EasyV-for-Unreal/releases<br>
 使用教程：https://dtstack.yuque.com/docs/share/f90e739f-08a0-4852-89f1-b62bfa87be1d
