@@ -14,6 +14,7 @@ Abide by the MIT License<br>
 CEF内核版本：[90.5.9](https://github.com/chromiumembedded/cef/tree/3987)<br>
 插件下载：https://github.com/BurgessYT/EasyV-for-Unreal/releases<br>
 使用教程：https://dtstack.yuque.com/docs/share/f90e739f-08a0-4852-89f1-b62bfa87be1d
+示例工程：https://github.com/BurgessYT/EasyV-for-Unreal/releases/tag/5.0.1 中的 [EasyV for Unreal5 Example.zip]
 
 ##Update
 
