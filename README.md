@@ -10,7 +10,7 @@ Abide by the MIT License<br>
 当前支持版本：<br>
   4.26.2<br>
   4.27.2<br>
-  5.0.1[不推荐版本，包含性能问题]<br>
+  5.0.1[使用UE5请建议关闭lumen，否则会引起性能问题]<br>
 CEF内核版本：[90.5.9](https://github.com/chromiumembedded/cef/tree/3987)<br>
 插件下载：https://github.com/BurgessYT/EasyV-for-Unreal/releases<br>
 使用教程：https://dtstack.yuque.com/docs/share/f90e739f-08a0-4852-89f1-b62bfa87be1d
